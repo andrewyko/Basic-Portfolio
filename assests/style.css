@@ -59,6 +59,8 @@ body {
 #img {
     float: left;
     clear: right;
+    height: 150px;
+    width: auto;
 
 }
 
@@ -71,10 +73,16 @@ body {
 
 }
 
-.contactsb {
+.connectme {
     width: 270px;
+    text-align: center;
     float: right;
     clear: both;
+}
+
+.icon {
+    width: 25px;
+    height: auto;
 }
 
 .footer {
@@ -83,6 +91,5 @@ body {
     color: #CCCCCC;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     padding: 50px 30px 50px 30px
-    clear: both;
 
 }
